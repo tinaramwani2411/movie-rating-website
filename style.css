@@ -318,7 +318,7 @@ opacity:0.8;
 .light{
 background:#f5f5f5;
 color:black;
-}
+} */
 
 .light .movie-card{
 background:white;
@@ -343,7 +343,7 @@ color:black;
 
 /* ANIMATIONS */
 
-@keyframes fadeDown{
+ @keyframes fadeDown{
 from{
 opacity:0;
 transform:translateY(-30px);
